@@ -1,6 +1,6 @@
 {
-  "name": "my-new-app",
-  "version": "0.1.0",
+  "name": "1.0.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangmin9404/react-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangmin9404/react-test/issues"
+  },
+  "homepage": "https://github.com/zhangmin9404/react-test#readme"
 }
